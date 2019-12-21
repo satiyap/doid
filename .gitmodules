@@ -1,0 +1,3 @@
+[submodule "themes/spark"]
+	path = themes/spark
+	url = https://github.com/satpras/spark.git

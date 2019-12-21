@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Doid"
 theme = "spark"
 paginate = 5
 
@@ -14,7 +14,7 @@ googleAnalytics = ""
 disqusShortname = ""
 
 [params]
-	subtitle = "Clean and minimal personal blog theme for Hugo"
+	subtitle = "personal message goes here"
 	disableDisqusTypes = ["page", "article"]
     mainSections = ["article"]
 	featherIconsCDN = false
