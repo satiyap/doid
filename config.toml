@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://doid.in/"
 languageCode = "en-us"
-title = "Doid"
+title = "DoID"
 theme = "spark"
 paginate = 5
 
@@ -14,7 +14,7 @@ googleAnalytics = ""
 disqusShortname = ""
 
 [params]
-	subtitle = "personal message goes here"
+	subtitle = "Dance of Indian Democracy!"
 	disableDisqusTypes = ["page", "article"]
     mainSections = ["article"]
 	featherIconsCDN = false
@@ -43,10 +43,10 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
-[[params.social]]
-name = "Github"
-icon = "github"
-url = ""
+#[[params.social]]
+#name = "Github"
+#icon = "github"
+#url = ""
 
 [[params.social]]
 name = "RSS"
