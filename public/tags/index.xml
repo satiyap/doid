@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DoID</title>
+    <link>https://doid.in/tags/</link>
+    <description>Recent content in Tags on DoID</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© doid.in, 2019</copyright>
+    <lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://doid.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GDP</title>
+      <link>https://doid.in/tags/gdp/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doid.in/tags/gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India</title>
+      <link>https://doid.in/tags/india/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doid.in/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Privacy</title>
+      <link>https://doid.in/tags/data-privacy/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://doid.in/tags/data-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy</title>
+      <link>https://doid.in/tags/policy/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://doid.in/tags/policy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
